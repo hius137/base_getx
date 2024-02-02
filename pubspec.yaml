@@ -49,6 +49,7 @@ dependencies:
   dio: ^4.0.4
   logger: ^1.1.0
   google_fonts:
+  another_flushbar: ^1.12.30
 
   # Library play video
   video_player: ^2.3.0
